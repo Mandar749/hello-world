@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    char charactername[] = "Logan";
+    int characterage = 35;
+    printf("My name is %s\n", charactername);
+    printf("I am %d years old\n",characterage);
+    printf("My superpower is that I am rich\n");
+    return 0;
+}
